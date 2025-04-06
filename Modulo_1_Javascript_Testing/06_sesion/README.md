@@ -3,7 +3,7 @@ Local storage
 
 
 #Objetivos cumplidos
-implementar estilos a pagina web realizada en actividad de la sesion 4
+implementar la cracion de notas mediante el almacenamiento en local storage y recuperarlos para mostrarlos en una lista.
 
 
 #Procedimiento o pasos seguidos
